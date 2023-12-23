@@ -14,16 +14,18 @@
 <br>  
 
 ## 👥프로젝트 참여자👥
-- *FullStack Developer : 임채윤, 장소현*
-- *Design advice : 김동환*
-
-> 임채윤 (Chaeyun Lim : GitHub Page => https://github.com/ChaeDoll)
-
-> 장소현 (Sohyeon Jang : GitHub Page => https://github.com/Jang-SoHyeon)  
+- 총 3명의 팀원으로 구성 되었음
+- *자료조사 : 박OO, 최OO*
+- *데이터 전처리 : 임채윤*
+- *그래프 시각화 : 임채윤*
+- *지도 시각화 : 박OO*
+- *머신러닝 구현 : 임채윤*
+- *코드 정리 : 임채윤*
+- *PPT 제작 및 발표 : 최OO*
 
 <br>
 
-## ⚙사용 기술 (언어, 도구 및 데이터베이스)⚙
+## ⚙사용 기술 (언어, 도구)⚙
 ### FrontEnd
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> &nbsp;<img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> &nbsp;<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> &nbsp;
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/> &nbsp;<img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/>  
@@ -34,35 +36,9 @@
 ### Tool
 <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/> &nbsp;<img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/> &nbsp;<img alt="Netlify" src ="https://img.shields.io/badge/Netlify-00C7B7.svg?&style=for-the-badge&logo=Netlify&logoColor=white"/>
 
-- Language : Next.js(React 기반 풀스택 기술 언어)
+- Language : Python(React 기반 풀스택 기술 언어)
 - DataBase : Notion API (https://well-macaroni-835.notion.site/CockTell-DataBase-d0118987948a4e8c883822e12d0dd60b?pvs=4)
-- Tool : Figma(디자인 협업 툴), PostMan(API 디자인 툴), Netlify(웹사이트 배포 툴)
-
-<br>
-
-## 구현 목표 체크리스트
-- [x] 메인 홈페이지 (배너, 레시피 미리보기, 커스텀레시피 미리보기, 칵테일 재료 미리보기) React-swiper 사용하여 구현
-- [x] Open Ai API를 사용한 칵테일 AI 추천서비스 구현
-- [x] 레시피 목록 페이지 구현
-- [x] 레시피 목록 필터링 기능 구현 (술, 난이도, 도수, 맛)
-- [x] 레시피 페이지 더보기 기능 구현
-- [x] 레시피 상세페이지 구현
-- [x] 레시피 상세페이지 링크 클립보드로 공유 기능
-- [x] 칵테일 이름, 설명, 맛, 재료 등으로 레시피 검색 기능 구현
-- [x] 가지고 있는 재료를 체크하여 제작 가능한 레시피를 찾는 '나의 냉장고' 페이지 구현 
-- [x] 칵테일 알코올 도수 계산기 구현
-- [x] 자체 회원가입 기능 구현
-- [x] 회원가입 유효성 검사 기능 구현 (비밀번호 안전도, 닉네임 중복) 
-- [ ] 자체 로그인 및 로그아웃 기능 구현
-- [ ] 소셜 로그인 및 로그아웃 기능 구현
-- [ ] 비밀번호 찾기 및 변경 구현
-- [ ] 로그인 세션 (타임아웃) 구현
-- [ ] 관리자 인터페이스 구현 (유저 관리 및 정보 확인)
-- [ ] 커스텀 칵테일 레시피 작성 기능 구현 (글쓰기)
-- [ ] 레시피 평가 작성 기능 구현 (댓글 쓰기)
-- [ ] 사용자의 평가를 Open ai를 사용하여 선호도 분석 및 리뷰
-- [ ] 레시피 페이지 혹은 댓글에 추천/비추천 기능 구현
-- [ ] 칵테일 커뮤니티 구현 (로그인 된 회원은 로그인 및 댓글쓰기 가능) 
+- Tool : Jupyter Notebook
 
 <br>
 
