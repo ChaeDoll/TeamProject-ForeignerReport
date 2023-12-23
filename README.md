@@ -37,7 +37,7 @@
 
 ### DataBase  
 - 공공데이터포털 : https://www.data.go.kr/
-- 서울 열린데이터광장 : https://data.seoul.go.kr/
+- 서울 열린데이터광장 : https://data.seoul.go.kr/  
 ![image](https://github.com/ChaeDoll/TeamProject-ForeignerReport/assets/108540812/316b4ffa-3eb8-4338-b7e8-d4a8ee5e2813)
 
   
