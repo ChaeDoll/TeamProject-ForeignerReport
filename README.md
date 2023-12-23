@@ -26,13 +26,11 @@
 <br>
 
 ## ⚙사용 기술 (언어, 도구)⚙
-### Language
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-
-- Language : Python(React 기반 풀스택 기술 언어)
+### Language And Tool
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
 - DataBase : Notion API (https://well-macaroni-835.notion.site/CockTell-DataBase-d0118987948a4e8c883822e12d0dd60b?pvs=4)
-- Tool : Jupyter Notebook
-
+  
 <br>
 
 ## 구현 사항
