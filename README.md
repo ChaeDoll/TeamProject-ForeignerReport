@@ -1,20 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Foreigner%20Report&fontSize=90&fontColor=003399)  
 
 # 서울시 외국인 인프라 개선을 위한 보고서
-## 🎬미리보기 (시연 영상)🎬
-
-<!-- 칵텔 시연 영상 (배속, 저화질) -->  
-https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a2-4728-a20a-aef1f84682ba  
 
 <br>  
 
 ## 📄프로젝트 소개📄
-- 참여대회 : 2023 명지대학교 창의적 SW 프로그램 경진대회 (SW프로그램 개발 부문)
-- 대회기간 : 2023.06.17 ~ 2023.08.24
-- **프로젝트 목표** : 코로나19 이후 젊은층들의 홈텐딩(집에서 하는 바텐딩)의 인기가 증가하였는데,
-  이러한 젊은층들에게 칵테일 레시피를 손쉽게 공유하고 칵테일에 대한 유익한 정보를 전달하는 웹사이트를 구축하는 것 
-- **주요기능** : 다양한 칵테일 레시피 제공, 창의적인 커스텀(유저) 레시피 제공, 집에 있는 재료들로 만들 수 있는 칵테일 레시피 제공,
-  칵테일 알코올 도수 계산기, 사용자가 입력하는 기분에 따라 그에 맞는 칵테일을 추천해주는 칵텔AI 서비스, 유저 커뮤니티(추후구현) 
+- 개요 : 2023-2 데이터마이닝 및 시각화 (전공) 팀 프로젝트
+- 기간 : 2023.10.20 ~ 2023.12.06
+- **프로젝트 목표** : 외국인 거주자의 증가로 인프라 개선을 위한 데이터 분석을 통해, 외국인들이 몰리는 지역 식별 및 인프라 구축제안
+- **기대효과** : 한국 내 거주하는 외국인들의 삶의 질 향상과 한국에 대한 외국인들의 인식 개선,
+  부가적으로 새로운 관광지 개설과 이에 따른 관광객 유치 등의 요소까지 기대 가능
 
 <br>  
 
@@ -131,31 +126,25 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
     ![4](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/5bafd715-16ba-4fa4-84b9-72478db8a190)
 
 <br>
-
-## API 명세서
-- [CockTell API 명세서🧾 : Notion](https://well-macaroni-835.notion.site/b39ed7be860047caa3568d92d6dedf3d?v=2e4963b3d9d5483bbc6de0e4a2343aad&pvs=4)
   
 ## 라이브러리
-- React-swiper
-- React-icons
-- Tailwind CSS
-- Open Ai
-- Next Auth (추후 구현)
-
+- 데이터
+  - Numpy
+  - Pandas
+- 그래프 그리기
+  - Matplotlib pyplot
+  - Seaborn
+  - Plotly express
+- 지도 그리기 
+  - Folium
+- 머신러닝 활용
+  - Scipy
+  - Sklearn
+  
 <br>
 
-## 프로젝트 설치 및 실행방법
-1. Github에서 현재 프로젝트 파일을 다운로드 받는다.
-2. node.js를 16버전 이상으로 설치한다.
-3. node.js가 설치되어 있는 터미널(cmd)을 준비한 뒤 프로젝트 파일 내부에 접근한다.
-4. npm install을 입력하여 next.js를 포함한 라이브러리들을 다운로드 한다.
-5. npm run dev (혹은 npm run build -> npm run start) 명령어로 프로젝트를 시작한다.
-6. http://localhost:3000 를 주소창에 입력하여 프로젝트에 칵텔(CockTell)에 접근한다.
+## 프로젝트 실행방법
+1. Github에서 data폴더와 code.ipynb 파일을 모두 다운로드 받는다.
+2. Jupyter Notebook 환경에서 code.ipynb를 실행시켜 python 코드로 작성된 프로젝트를 열람한다.  
 
-<br>
-
-## 개발 현황
-- 웹 페이지 : https://cocktellchaesogong.netlify.app/
-- 개발 깃허브 페이지 : https://github.com/ChaeSoGong/cocktell-site
-
-> 칵텔(CockTell) 프로젝트에 기재된 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다.
+> 이 프로젝트에 기재된 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다.
