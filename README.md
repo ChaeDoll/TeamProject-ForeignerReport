@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Foreigner%20Report&fontSize=90&fontColor=003399)  
 
-# 서울시 외국인 인프라 개선을 위한 보고서  
-## (Report on improving infrastructure for foreigners)
+# 서울시 외국인 인프라 개선을 위한 보고서
 ## 🎬미리보기 (시연 영상)🎬
 
 <!-- 칵텔 시연 영상 (배속, 저화질) -->  
