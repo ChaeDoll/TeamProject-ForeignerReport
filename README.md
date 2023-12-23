@@ -26,11 +26,11 @@
 <br>
 
 ## ⚙사용 기술 (언어, 도구)⚙
-### Language
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-### Tool  
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-### DataBase
+### Language  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>  
+### Tool   
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>  
+### DataBase  
 - 공공데이터포털 : https://www.data.go.kr/
 - 서울 열린데이터광장 : https://data.seoul.go.kr/ 
   
