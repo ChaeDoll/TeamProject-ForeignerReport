@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Foreigner%20Report&fontSize=90&fontColor=003399)  
 
 # 서울시 외국인 인프라 개선을 위한 보고서
+## 프로젝트 실행방법
+1. Github에서 data폴더와 code.ipynb 파일을 모두 다운로드 받는다.
+2. Jupyter Notebook 환경에서 code.ipynb를 실행시켜 python 코드로 작성된 프로젝트를 열람한다. 
 
 <br>  
 
@@ -55,12 +58,6 @@
   - Folium
 - 머신러닝 활용
   - Scipy
-  - Sklearn
-  
-<br>
-
-## 프로젝트 실행방법
-1. Github에서 data폴더와 code.ipynb 파일을 모두 다운로드 받는다.
-2. Jupyter Notebook 환경에서 code.ipynb를 실행시켜 python 코드로 작성된 프로젝트를 열람한다.  
+  - Sklearn 
 
 > 이 프로젝트에 기재된 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다.
